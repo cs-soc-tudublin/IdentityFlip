@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Roboto Mono';
+    src: url('https://raw.githubusercontent.com/cs-soc-tudublin/identityflip/main/assets/fonts/roboto-mono/light/RobotoMono-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Roboto Mono';
+    src: url('https://raw.githubusercontent.com/cs-soc-tudublin/identityflip/main/assets/fonts/roboto-mono/regular/RobotoMono-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Roboto Mono';
+    src: url('https://raw.githubusercontent.com/cs-soc-tudublin/identityflip/main/assets/fonts/roboto-mono/retina/RobotoMono-Retina.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Roboto Mono';
+    src: url('https://raw.githubusercontent.com/cs-soc-tudublin/identityflip/main/assets/fonts/roboto-mono/medium/RobotoMono-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Roboto Mono';
+    src: url('https://raw.githubusercontent.com/cs-soc-tudublin/identityflip/main/assets/fonts/roboto-mono/semibold/RobotoMono-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Roboto Mono';
+    src: url('https://raw.githubusercontent.com/cs-soc-tudublin/identityflip/main/assets/fonts/roboto-mono/bold/RobotoMono-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Roboto Mono VF';
+    src: url('https://raw.githubusercontent.com/cs-soc-tudublin/identityflip/main/assets/fonts/roboto-mono/variable/RobotoMono-VF.ttf') format('truetype-variations');
+    /* font-weight requires a range: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide#Using_a_variable_font_font-face_changes */
+    font-weight: 300 700;
+    font-style: normal;
+  }
+  
