@@ -20,7 +20,7 @@ module.exports = {
         },
         synthwave: {
           ...themes.synthwave,
-          primary: '#30306c',
+          primary: '#5151b8',
         },
       },
     ],
