@@ -1,5 +1,5 @@
 {
-    "name": "@cs-soc-tudublin/identityflip",
+    "name": "@cspp/identityflip",
     "version": "0.0.1",
     "author": "Ruán Murgatroyd",
     "packageManager": "yarn@4.0.2",
