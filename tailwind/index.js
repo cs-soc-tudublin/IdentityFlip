@@ -18,6 +18,12 @@ module.exports = {
           secondary: '#bfd7ea',
           accent: '#ffe61a',
         },
+        evil: {
+          ...themes.dark,
+          primary: '#ed1c24',
+          secondary: '#f48889',
+          accent: '#ffe61a',
+        },
         synthwave: {
           ...themes.synthwave,
           primary: '#5151b8',
